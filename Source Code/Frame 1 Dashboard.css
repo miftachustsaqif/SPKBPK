@@ -1,0 +1,875 @@
+/* Start Frame 1 */
+<div class="Frame1 w-[1920px] h-[3014px] relative bg-white">
+  
+/* Start Header */
+  <div class="Header w-[1778px] h-[131px] left-[71px] top-[39px] absolute">
+    <div class="Rectangle7 w-[1778px] h-[131px] left-0 top-0 absolute bg-[#0f1934]"></div>
+    <div class="DashboardMonitoringSpkpbk left-[333px] top-[29px] absolute text-white text-[64px] font-bold font-['Inter']">DASHBOARD MONITORING SPKPBK</div>
+    <img class="PngwingCom21 w-[120px] h-[93.54px] left-[70px] top-[21px] absolute" src="https://via.placeholder.com/120x94" />
+    <img class="Dashboard54821 w-[95px] h-[95px] left-[1613px] top-[18px] absolute" src="https://via.placeholder.com/95x95" />
+  </div> /* End Header */
+
+  /* Start General Information */
+  <div class="GeneralInformation w-[1772px] h-[207px] left-[74px] top-[217px] absolute justify-center items-start gap-[38px] inline-flex">
+    <div class="FramePeriodRekon w-[324px] h-[207px] relative shadow flex-col justify-start items-start flex">
+      <div class="Rectangle8 w-[324px] h-[207px] bg-[#0f1934] rounded-[20px]"></div>
+      <div class=" text-white text-[68px] font-bold font-['Inter']">6</div>
+      <div class="PeriodRekon text-white text-[32px] font-bold font-['Inter']">PERIOD REKON</div>
+    </div>
+    <div class="FrameSpkbpk w-[324px] h-[207px] relative shadow flex-col justify-start items-start flex">
+      <div class="Rectangle9 w-[324px] h-[207px] bg-[#0f1934] rounded-[20px]"></div>
+      <div class=" text-center text-white text-[68px] font-bold font-['Inter']">302</div>
+      <div class="JumlahSpkbpk text-white text-[32px] font-bold font-['Inter']">JUMLAH SPKBPK</div>
+    </div>
+    <div class="FrameValidasi w-[323px] h-[207px] relative shadow flex-col justify-start items-start flex">
+      <div class="Rectangle10 w-[323px] h-[207px] bg-[#0f1934] rounded-[20px]"></div>
+      <div class=" text-center text-white text-[68px] font-bold font-['Inter']">55</div>
+      <div class="Validasi text-center text-white text-[32px] font-bold font-['Inter']">VALIDASI</div>
+    </div>
+    <div class="FrameSp3es w-[324px] h-[207px] relative shadow flex-col justify-start items-start flex">
+      <div class="Rectangle11 w-[324px] h-[207px] bg-[#0f1934] rounded-[20px]"></div>
+      <div class=" text-center text-white text-[68px] font-bold font-['Inter']">19</div>
+      <div class="TindakLanjutSp3es text-white text-2xl font-bold font-['Inter']">TINDAK LANJUT SP3ES </div>
+    </div>
+    <div class="FramePotensiPe w-[324px] h-[207px] relative shadow flex-col justify-start items-start flex">
+      <div class="Rectangle12 w-[324px] h-[207px] bg-[#0f1934] rounded-[20px]"></div>
+      <div class="87bn text-center text-white text-[56px] font-bold font-['Inter']">121.87bn</div>
+      <div class="PotensiPe text-white text-[32px] font-bold font-['Inter']">POTENSI PE</div>
+    </div>
+  </div> /* End General Information */
+
+  /* Start Sort & Filter */
+  <div class="SortFilter w-[1720px] h-[73px] left-[106px] top-[464px] absolute">
+    <div class="FrameFilterPeriodeData h-[73px] left-0 top-0 absolute flex-col justify-center items-start gap-2.5 inline-flex">
+      <div class="PeriodeData text-black text-xl font-medium font-['Inter']">Periode Data</div>
+      <div class="Frame3 self-stretch h-[39px] pl-[13px] pr-4 pt-[5px] pb-[9px] rounded-[5px] border border-black justify-center items-end gap-[227px] inline-flex">
+        <div class="All text-black text-xl font-medium font-['Inter']">All</div>
+        <img class="ExpandArrow w-5 h-5" src="https://via.placeholder.com/20x20" />
+      </div>
+    </div>
+    <div class="FrameFilterNpwp h-[73px] left-[330px] top-0 absolute flex-col justify-center items-start gap-2.5 inline-flex">
+      <div class="NpwpDataPerusahaan text-black text-xl font-medium font-['Inter']">NPWP & Data Perusahaan</div>
+      <div class="Frame4 self-stretch h-[39px] pl-[13px] pr-4 pt-[5px] pb-[9px] rounded-[5px] border border-black justify-center items-end gap-[227px] inline-flex">
+        <div class="All text-black text-xl font-medium font-['Inter']">All</div>
+        <img class="ExpandArrow w-5 h-5" src="https://via.placeholder.com/20x20" />
+      </div>
+    </div>
+    <div class="FrameFilterSpkbpk h-[73px] left-[660px] top-0 absolute flex-col justify-center items-start gap-2.5 inline-flex">
+      <div class="NoSpkbpk text-black text-xl font-medium font-['Inter']">No SPKBPK</div>
+      <div class="Frame5 self-stretch h-[39px] pl-[13px] pr-4 pt-[5px] pb-[9px] rounded-[5px] border border-black justify-center items-end gap-[227px] inline-flex">
+        <div class="All text-black text-xl font-medium font-['Inter']">All</div>
+        <img class="ExpandArrow w-5 h-5" src="https://via.placeholder.com/20x20" />
+      </div>
+    </div>
+    <div class="FrameFilterHsPenetapan h-[73px] left-[990px] top-0 absolute flex-col justify-center items-start gap-2.5 inline-flex">
+      <div class="HsPenetapan text-black text-xl font-medium font-['Inter']">HS Penetapan</div>
+      <div class="Frame6 self-stretch h-[39px] pl-[13px] pr-4 pt-[5px] pb-[9px] rounded-[5px] border border-black justify-center items-end gap-[227px] inline-flex">
+        <div class="All text-black text-xl font-medium font-['Inter']">All</div>
+        <img class="ExpandArrow w-5 h-5" src="https://via.placeholder.com/20x20" />
+      </div>
+    </div>
+    <div class="FrameFilterUraianBarang h-[73px] left-[1320px] top-0 absolute flex-col justify-center items-start gap-2.5 inline-flex">
+      <div class="UraianBarangPenetapan text-black text-xl font-medium font-['Inter']">Uraian Barang Penetapan</div>
+      <div class="Frame7 self-stretch h-[39px] pl-[13px] pr-4 pt-[5px] pb-[9px] rounded-[5px] border border-black justify-center items-end gap-[227px] inline-flex">
+        <div class="All text-black text-xl font-medium font-['Inter']">All</div>
+        <img class="ExpandArrow w-5 h-5" src="https://via.placeholder.com/20x20" />
+      </div>
+    </div>
+    <img class="ClearFilters w-16 h-16 left-[1720px] top-[9px] absolute origin-top-left rotate-180" src="https://via.placeholder.com/64x64" />
+  </div>/* End Sort & Filter */
+
+  /* Start Jenis Validasi */
+  <div class="JenisValidasi h-[154px] px-12 pt-2.5 pb-[11px] left-[293px] top-[582px] absolute rounded-[20px] border border-black flex-col justify-center items-center gap-[15px] inline-flex">
+    <div class="JenisValidasi text-center text-black text-5xl font-bold font-['Inter']">JENIS VALIDASI</div>
+    <div class="Group5 self-stretch h-[60px] relative">
+      <div class="Frame8 w-[400px] h-[60px] pl-[49px] pr-[55px] pt-[11px] pb-2.5 left-0 top-0 absolute bg-[#f79a06] rounded-[10px] justify-start items-center inline-flex">
+        <div class="KurangBayarPe text-white text-[32px] font-medium font-['Inter']">KURANG BAYAR PE</div>
+      </div>
+      <div class="Frame9 w-[400px] h-[60px] px-[39px] pt-[11px] pb-2.5 left-[420px] top-0 absolute bg-[#f79a06] rounded-[10px] justify-center items-center inline-flex">
+        <div class="ProgressValidasi text-white text-[32px] font-medium font-['Inter']">PROGRESS VALIDASI</div>
+      </div>
+      <div class="Frame10 w-[400px] h-[60px] pl-[18px] pr-[17px] pt-[11px] pb-2.5 left-[840px] top-0 absolute bg-[#f79a06] rounded-[10px] justify-center items-center inline-flex">
+        <div class="TidakAdaPotensiPe text-white text-[32px] font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+      </div>
+    </div>
+  </div>/* End Jenis Validasi */
+
+  /* Start Jenis Temuan Ekspor */
+  <div class="JenisTemuanEkspor w-[876px] h-[412px] left-[70px] top-[798px] absolute rounded-[10px] border-2 border-black">
+    <div class="JenisTemuanEkspor left-[234px] top-[10px] absolute text-black text-[32px] font-medium font-['Inter']">JENIS TEMUAN EKSPOR</div>
+    <div class="Group47 w-[3255.97px] h-[247px] left-[145px] top-[126px] absolute">
+      <img class="Image8 w-[663px] h-[247px] left-0 top-0 absolute" src="https://via.placeholder.com/663x247" />
+      <img class="Image10 w-[679.75px] h-[247px] left-[853px] top-0 absolute" src="https://via.placeholder.com/680x247" />
+      <img class="Image11 w-[682.09px] h-[247px] left-[1698px] top-0 absolute" src="https://via.placeholder.com/682x247" />
+      <img class="Image12 w-[659.97px] h-[247px] left-[2596px] top-0 absolute" src="https://via.placeholder.com/660x247" />
+    </div>
+  </div>/* End Tenis Temuan Ekspor */
+
+  /* Start Resume SPKBPK */
+  <div class="ResumeSpkbpk w-[880px] h-[412px] left-[970px] top-[798px] absolute rounded-[10px] border-2 border-[#020202]">
+    <div class="ResumeSpkbpk left-[307px] top-[10px] absolute text-black text-[32px] font-medium font-['Inter']">RESUME SPKBPK</div>
+    <div class="NamaPerusahaan left-[76px] top-[60px] absolute text-center text-black text-xl font-medium font-['Inter']">Nama Perusahaan</div>
+    <div class="JumlahSpkbpk left-[389px] top-[60px] absolute text-center text-black text-xl font-medium font-['Inter']">Jumlah SPKBPK</div>
+    <div class="BkTagihan left-[681px] top-[60px] absolute text-center text-black text-xl font-medium font-['Inter']">BK (Tagihan)</div>
+    <div class="Frame17 w-[868px] h-[317px] left-[6px] top-[95px] absolute bg-[#f79a06]/20 rounded-[10px] border-2 border-white">
+      <div class="TabelPerusahaan w-[783px] h-6 left-[34px] top-[60px] absolute">
+        <div class="CisadaneRayaChemicals left-0 top-0 absolute text-black text-xl font-medium font-['Inter']">CISADANE   RAYA CHEMICALS</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-medium font-['Inter']">18</div>
+        <div class=" left-[633px] top-0 absolute text-center text-black text-xl font-medium font-['Inter']">138808623000</div>
+      </div>
+      <div class="TabelPerusahaan w-[783px] h-6 left-[34px] top-[140px] absolute">
+        <div class="CisadaneRayaChemicals left-0 top-0 absolute text-black text-xl font-medium font-['Inter']">CISADANE   RAYA CHEMICALS</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-medium font-['Inter']">18</div>
+        <div class=" left-[633px] top-0 absolute text-center text-black text-xl font-medium font-['Inter']">138808623000</div>
+      </div>
+      <div class="TabelPerusahaan w-[783px] h-6 left-[34px] top-[257px] absolute">
+        <div class="CisadaneRayaChemicals left-0 top-0 absolute text-black text-xl font-medium font-['Inter']">CISADANE   RAYA CHEMICALS</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-medium font-['Inter']">18</div>
+        <div class=" left-[633px] top-0 absolute text-center text-black text-xl font-medium font-['Inter']">138808623000</div>
+      </div>
+      <div class="TabelPerusahaan w-[783px] h-6 left-[34px] top-[337px] absolute">
+        <div class="CisadaneRayaChemicals left-0 top-0 absolute text-black text-xl font-medium font-['Inter']">CISADANE   RAYA CHEMICALS</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-medium font-['Inter']">18</div>
+        <div class=" left-[633px] top-0 absolute text-center text-black text-xl font-medium font-['Inter']">138808623000</div>
+      </div>
+      <div class="TabelPerusahaan w-[783px] h-6 left-[34px] top-[417px] absolute">
+        <div class="CisadaneRayaChemicals left-0 top-0 absolute text-black text-xl font-medium font-['Inter']">CISADANE   RAYA CHEMICALS</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-medium font-['Inter']">18</div>
+        <div class=" left-[633px] top-0 absolute text-center text-black text-xl font-medium font-['Inter']">138808623000</div>
+      </div>
+      <div class="TabelPerusahaan w-[783px] h-6 left-[34px] top-[525px] absolute">
+        <div class="CisadaneRayaChemicals left-0 top-0 absolute text-black text-xl font-medium font-['Inter']">CISADANE   RAYA CHEMICALS</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-medium font-['Inter']">18</div>
+        <div class=" left-[633px] top-0 absolute text-center text-black text-xl font-medium font-['Inter']">138808623000</div>
+      </div>
+      <div class="TabelPerusahaan w-[783px] h-6 left-[34px] top-[605px] absolute">
+        <div class="CisadaneRayaChemicals left-0 top-0 absolute text-black text-xl font-medium font-['Inter']">CISADANE   RAYA CHEMICALS</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-medium font-['Inter']">18</div>
+        <div class=" left-[633px] top-0 absolute text-center text-black text-xl font-medium font-['Inter']">138808623000</div>
+      </div>
+      <div class="TabelPerusahaan w-[783px] h-6 left-[34px] top-[685px] absolute">
+        <div class="CisadaneRayaChemicals left-0 top-0 absolute text-black text-xl font-medium font-['Inter']">CISADANE   RAYA CHEMICALS</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-medium font-['Inter']">18</div>
+        <div class=" left-[633px] top-0 absolute text-center text-black text-xl font-medium font-['Inter']">138808623000</div>
+      </div>
+      <div class="TabelPerusahaan w-[783px] h-6 left-[34px] top-[765px] absolute">
+        <div class="CisadaneRayaChemicals left-0 top-0 absolute text-black text-xl font-medium font-['Inter']">CISADANE   RAYA CHEMICALS</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-medium font-['Inter']">18</div>
+        <div class=" left-[633px] top-0 absolute text-center text-black text-xl font-medium font-['Inter']">138808623000</div>
+      </div>
+      <div class="TabelKesalahan w-[781px] h-6 left-[34px] top-[89px] absolute">
+        <div class="SalahTarifGeserHsCode left-0 top-0 absolute text-black text-xl font-light font-['Inter']">Salah   Tarif (Geser HS Code)</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class=" left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">138808623000</div>
+      </div>
+      <div class="TabelKesalahan w-[781px] h-6 left-[34px] top-[169px] absolute">
+        <div class="SalahTarifGeserHsCode left-0 top-0 absolute text-black text-xl font-light font-['Inter']">Salah   Tarif (Geser HS Code)</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class=" left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">138808623000</div>
+      </div>
+      <div class="TabelKesalahan w-[781px] h-6 left-[34px] top-[199px] absolute">
+        <div class="SalahTarifGeserHsCode left-0 top-0 absolute text-black text-xl font-light font-['Inter']">Salah   Tarif (Geser HS Code)</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class=" left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">138808623000</div>
+      </div>
+      <div class="TabelKesalahan w-[781px] h-6 left-[34px] top-[286px] absolute">
+        <div class="SalahTarifGeserHsCode left-0 top-0 absolute text-black text-xl font-light font-['Inter']">Salah   Tarif (Geser HS Code)</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class=" left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">138808623000</div>
+      </div>
+      <div class="TabelKesalahan w-[781px] h-6 left-[34px] top-[366px] absolute">
+        <div class="SalahTarifGeserHsCode left-0 top-0 absolute text-black text-xl font-light font-['Inter']">Salah   Tarif (Geser HS Code)</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class=" left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">138808623000</div>
+      </div>
+      <div class="TabelKesalahan w-[781px] h-6 left-[34px] top-[446px] absolute">
+        <div class="SalahTarifGeserHsCode left-0 top-0 absolute text-black text-xl font-light font-['Inter']">Salah   Tarif (Geser HS Code)</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class=" left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">138808623000</div>
+      </div>
+      <div class="TabelKesalahan w-[781px] h-6 left-[34px] top-[474px] absolute">
+        <div class="SalahTarifGeserHsCode left-0 top-0 absolute text-black text-xl font-light font-['Inter']">Salah   Tarif (Geser HS Code)</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class=" left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">138808623000</div>
+      </div>
+      <div class="TabelKesalahan w-[781px] h-6 left-[34px] top-[554px] absolute">
+        <div class="SalahTarifGeserHsCode left-0 top-0 absolute text-black text-xl font-light font-['Inter']">Salah   Tarif (Geser HS Code)</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class=" left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">138808623000</div>
+      </div>
+      <div class="TabelKesalahan w-[781px] h-6 left-[34px] top-[634px] absolute">
+        <div class="SalahTarifGeserHsCode left-0 top-0 absolute text-black text-xl font-light font-['Inter']">Salah   Tarif (Geser HS Code)</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class=" left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">138808623000</div>
+      </div>
+      <div class="TabelKesalahan w-[781px] h-6 left-[34px] top-[714px] absolute">
+        <div class="SalahTarifGeserHsCode left-0 top-0 absolute text-black text-xl font-light font-['Inter']">Salah   Tarif (Geser HS Code)</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class=" left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">138808623000</div>
+      </div>
+      <div class="TabelKesalahan w-[781px] h-6 left-[34px] top-[794px] absolute">
+        <div class="SalahTarifGeserHsCode left-0 top-0 absolute text-black text-xl font-light font-['Inter']">Salah   Tarif (Geser HS Code)</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class=" left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">138808623000</div>
+      </div>
+      <div class="TabelKesalahan w-[781px] h-6 left-[34px] top-[824px] absolute">
+        <div class="SalahTarifGeserHsCode left-0 top-0 absolute text-black text-xl font-light font-['Inter']">Salah   Tarif (Geser HS Code)</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class=" left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">138808623000</div>
+      </div>
+      <div class="TabelKesalahan w-[781px] h-6 left-[34px] top-[854px] absolute">
+        <div class="SalahTarifGeserHsCode left-0 top-0 absolute text-black text-xl font-light font-['Inter']">Salah   Tarif (Geser HS Code)</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class=" left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">138808623000</div>
+      </div>
+    </div>
+  </div>/* End Resume SPKBPK */
+
+  /* Start Validasi Pungutan Ekspor */
+  <div class="ValidasiPungutanEkspor h-[600px] px-[103px] pt-2.5 pb-[107px] left-[70px] top-[1235px] absolute rounded-[10px] border-2 border-black flex-col justify-start items-center gap-20 inline-flex">
+    <div class="ValidasiPungutanEkspor text-black text-[32px] font-medium font-['Inter']">VALIDASI PUNGUTAN EKSPOR</div>
+    <img class="Image9 w-[674px] h-[364px]" src="https://via.placeholder.com/674x364" />
+  </div> /* End Validasi Pungutan Ekspor */
+
+  /* Start Detail Validasi Pungutan Ekspor */
+  <div class="DetailValidasiPungutanEkspor w-[880px] h-[600px] left-[970px] top-[1235px] absolute rounded-[10px] border-2 border-black">
+    <div class="DetailValidasiPungutanEkspor left-[147px] top-[10px] absolute text-black text-[32px] font-medium font-['Inter']">DETAIL VALIDASI PUNGUTAN EKSPOR</div>
+    <div class="NamaPerusahaan left-[76px] top-[60px] absolute text-center text-black text-xl font-medium font-['Inter']">Nama Perusahaan</div>
+    <div class="JumlahSpkbpk left-[389px] top-[60px] absolute text-center text-black text-xl font-medium font-['Inter']">Jumlah SPKBPK</div>
+    <div class="PotensiHasilValidasi left-[641px] top-[60px] absolute text-center text-black text-xl font-medium font-['Inter']">Potensi Hasil Validasi</div>
+    <div class="Frame17 w-[868px] h-[505px] left-[6px] top-[95px] absolute bg-[#f79a06]/20 rounded-[10px] border-2 border-white">
+      <div class="TabelPerusahaan w-[783px] h-6 left-[34px] top-[60px] absolute">
+        <div class="KurangBayarPe left-0 top-0 absolute text-black text-xl font-medium font-['Inter']">KURANG BAYAR PE</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-medium font-['Inter']">18</div>
+        <div class="578927000 left-[633px] top-0 absolute text-center text-black text-xl font-medium font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelPerusahaan w-[783px] h-6 left-[34px] top-[790px] absolute">
+        <div class="TidakAdaPotensiPe left-0 top-0 absolute text-black text-xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-medium font-['Inter']">18</div>
+        <div class="578927000 left-[633px] top-0 absolute text-center text-black text-xl font-medium font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[89px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[118px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[147px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[176px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[205px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[234px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[263px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[292px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[321px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[350px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[379px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[408px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[437px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[466px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[495px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[524px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[553px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[582px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[611px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[640px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[669px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[698px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[727px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[756px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[819px] absolute">
+        <div class="BensuliAsamSawit left-0 top-0 absolute text-black text-xl font-light font-['Inter']">BENSULI ASAM SAWIT</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[848px] absolute">
+        <div class="BensuliAsamSawit left-0 top-0 absolute text-black text-xl font-light font-['Inter']">BENSULI ASAM SAWIT</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[877px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[906px] absolute">
+        <div class="BensuliAsamSawit left-0 top-0 absolute text-black text-xl font-light font-['Inter']">BENSULI ASAM SAWIT</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[935px] absolute">
+        <div class="BensuliAsamSawit left-0 top-0 absolute text-black text-xl font-light font-['Inter']">BENSULI ASAM SAWIT</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[964px] absolute">
+        <div class="BensuliAsamSawit left-0 top-0 absolute text-black text-xl font-light font-['Inter']">BENSULI ASAM SAWIT</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[993px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[1022px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[1051px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[1080px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[1109px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[1138px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[1167px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[1196px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+      <div class="TabelKesalahan w-[780px] h-6 left-[34px] top-[1225px] absolute">
+        <div class="EcoJawaEnotec left-0 top-0 absolute text-black text-xl font-light font-['Inter']">ECO JAWA ENOTEC</div>
+        <div class=" left-[420px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">18</div>
+        <div class="578927000 left-[636px] top-0 absolute text-center text-black text-xl font-light font-['Inter']">24,578.927.000</div>
+      </div>
+    </div>
+  </div>/* End Detail Validasi Pungutan Ekspor */
+
+  /* Start Profil Entitas */
+  <div class="ProfilEntitas w-[880px] h-[300px] left-[520px] top-[1860px] absolute rounded-[10px] border-2 border-black">
+    <div class="ProfilEntitas left-[313px] top-[20px] absolute text-black text-[32px] font-medium font-['Inter']">PROFIL ENTITAS</div>
+    <div class="NamaPerusahaan left-[40px] top-[91px] absolute text-black text-base font-medium font-['Inter']">NAMA PERUSAHAAN</div>
+    <div class="Alamat left-[40px] top-[125px] absolute text-black text-base font-medium font-['Inter']">ALAMAT</div>
+    <div class="Email left-[40px] top-[159px] absolute text-black text-base font-medium font-['Inter']">EMAIL</div>
+    <div class="Hp left-[40px] top-[193px] absolute text-black text-base font-medium font-['Inter']">HP</div>
+    <div class="Telepon left-[40px] top-[227px] absolute text-black text-base font-medium font-['Inter']">TELEPON</div>
+    <div class="Line1 w-[177px] h-[0px] left-[280px] top-[91px] absolute origin-top-left rotate-90 border border-black"></div>
+  </div>/* End Profil Entitas */
+
+  /* Start Summary Validasi SPKBPK */
+  <div class="SummaryValidasiSpkpbk w-[1780px] h-[600px] left-[70px] top-[2185px] absolute rounded-[10px] border-2 border-black">
+    <div class="SummaryValidasiSpkpbk left-[30px] top-[30px] absolute text-black text-5xl font-semibold font-['Inter']">SUMMARY VALIDASI SPKPBK</div>
+    <div class="NoSpkpbk left-[149px] top-[118px] absolute text-center text-black text-xl font-semibold font-['Inter']">NO SPKPBK</div>
+    <div class="Tanggal left-[418px] top-[118px] absolute text-center text-black text-xl font-semibold font-['Inter']">Tanggal</div>
+    <div class="JenisTemuanSpkbpk left-[582px] top-[118px] absolute text-center text-black text-xl font-semibold font-['Inter']">Jenis Temuan SPKBPK</div>
+    <div class="HsPenetapan left-[853px] top-[118px] absolute text-center text-black text-xl font-semibold font-['Inter']">HS Penetapan</div>
+    <div class="UraianBarangPenetapan left-[1088px] top-[118px] absolute text-center text-black text-xl font-semibold font-['Inter']">Uraian Barang Penetapan</div>
+    <div class="Validasi left-[1539px] top-[118px] absolute text-center text-black text-xl font-semibold font-['Inter']">Validasi</div>
+    <div class="TabelSummary w-[1701px] h-[407px] left-[39px] top-[159px] absolute bg-white rounded-[10px] border-2 border-white">
+      <div class="Group6 left-[20px] top-[39px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group7 left-[20px] top-[99px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group8 left-[20px] top-[159px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group9 left-[20px] top-[219px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group10 left-[20px] top-[279px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group11 left-[20px] top-[339px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group12 left-[20px] top-[399px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group13 left-[20px] top-[459px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group14 left-[20px] top-[519px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group15 left-[20px] top-[579px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group16 left-[20px] top-[639px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group17 left-[20px] top-[699px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group18 left-[20px] top-[759px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group19 left-[20px] top-[819px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group20 left-[20px] top-[879px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group21 left-[20px] top-[939px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group22 left-[20px] top-[999px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group23 left-[20px] top-[1059px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group24 left-[20px] top-[1119px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group25 left-[20px] top-[1179px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group26 left-[20px] top-[1239px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group27 left-[20px] top-[1299px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group28 left-[20px] top-[1359px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group29 left-[20px] top-[1419px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group30 left-[20px] top-[1479px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group31 left-[20px] top-[1539px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group32 left-[20px] top-[1599px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group33 left-[20px] top-[1659px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group34 left-[20px] top-[1719px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group35 left-[20px] top-[1779px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group36 left-[20px] top-[1839px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group37 left-[20px] top-[1899px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group44 left-[20px] top-[2019px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group38 left-[20px] top-[1959px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group39 left-[20px] top-[1959px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group40 left-[20px] top-[1959px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group41 left-[20px] top-[1959px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group42 left-[20px] top-[1959px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group43 left-[20px] top-[1959px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+      <div class="Group45 left-[20px] top-[2079px] absolute">
+        <div class="Kep50BcBc092023 left-0 top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">KEP-   50/BC/BC.09/2023</div>
+        <div class="Dec23 left-[336px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">14-Dec-23</div>
+        <div class="SalahHpeDanTarifBk left-[500px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">Salah HPE dan Tarif BK</div>
+        <div class=" left-[803px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">23066010</div>
+        <div class="SampleOfPalmKernelMeal left-[962px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SAMPLE OF PALM KERNEL MEAL</div>
+        <div class="TidakAdaPotensiPe left-[1381px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">TIDAK ADA POTENSI PE</div>
+        <div class=" left-[1695px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">000</div>
+        <div class="Sp3es left-[1782px] top-0 absolute text-center text-black text-2xl font-medium font-['Inter']">SP3ES</div>
+      </div>
+    </div>
+  </div>/* End Summary Validasi SPKBPK */
+
+
+  /* End Frame 1 */
+</div>
